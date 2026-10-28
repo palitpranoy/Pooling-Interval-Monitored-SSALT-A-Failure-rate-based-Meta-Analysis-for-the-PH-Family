@@ -4,9 +4,11 @@ R code for the paper "Pooling interval-monitored step-stress accelerated life te
 
 - Pranoy Palit
   Department of Statistics, The University of Burdwan, Burdwan, West Bengal, India
+  Email:paliitpranoy@gmail.com
 
 - Ayan Pal
   Department of Statistics, The University of Burdwan, Burdwan, West Bengal, India
+  Email:ayan.pal33@gmail.com
 
 - Kiran Prajapat
   School of Mathematics, Statistics and Physics, Newcastle University, Newcastle upon Tyne, UK
